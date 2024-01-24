@@ -48,7 +48,13 @@ main {
   font-weight: 600;
   border: 2px solid blue;
 }
+.primary-btn:hover{
+  background-color: #0087f5;
+  transition: 0.8s;
+  color: #fff;
+  border: 2px solid #fff;
 
+}
 /* failures-section style */
 
 .failures-section {

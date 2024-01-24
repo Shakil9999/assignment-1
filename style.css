@@ -122,6 +122,36 @@ main {
   color: #fff;
 }
 
-.awlays-discription h1{
- margin-bottom: 20px;
+.awlays-discription h1 {
+  margin-bottom: 20px;
+}
+
+/* future section style */
+
+.future {
+  display: flex;
+  justify-content: space-between;
+  background-color: #151414;
+  color: #fff;
+  padding: 100px;
+}
+
+.future-content p {
+  width: 500px;
+  margin-bottom: 15px;
+}
+.future-content h1 {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+.future-content img {
+  padding-right: 15px;
+}
+
+.email {
+  padding: 5px;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
